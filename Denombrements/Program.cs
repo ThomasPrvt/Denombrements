@@ -21,7 +21,6 @@ namespace Denombrements
                 c = int.Parse(Console.ReadLine());
 
                 if (c == 0) { Environment.Exit(0); }
-
                 if (c == 1)
                 {
                     Console.Write("nombre total d'éléments à gérer = "); // le nombre d'éléments à gérer
